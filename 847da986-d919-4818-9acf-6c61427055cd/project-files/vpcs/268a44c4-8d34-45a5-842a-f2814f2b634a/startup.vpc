@@ -1,9 +1,0 @@
-# This the configuration for PC0
-#
-# Uncomment the following line to enable DHCP
-# dhcp
-# or the line below to manually setup an IP address and subnet mask
-ip 192.168.2.3 255.255.255.0 192.168.2.1
-#
-
-set pcname PC0
